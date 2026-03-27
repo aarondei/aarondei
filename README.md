@@ -1,27 +1,43 @@
-# Hi, I'm Aaron 👋
+# 👋 Hi, I'm Aaron Dei Jatayna
 
-💻 Computer Science student  
-🚀 Interested in Software Development, AI, and Data  
+💻 **Computer Science Student**  
+🚀 Passionate about **Software Development, AI, and Data**  
+🧠 Enjoy building projects that combine **logic, design, and real-world problem solving**  
 
-## Skills
-- Java, Python, C#, C/C++, Kotlin, SQL, PHP
-- Spring Boot, Django, .NET, JavaFX, Streamlit
-- HTML, CSS, JavaScript
+---
 
-## Contact
-- Email: aaronvjatayna@gmail.com
+## 🛠️ Tech Stack
 
-<!--
-**aarondei/aarondei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**  
+⚡ Java • Python • C# • C/C++ • Kotlin • SQL • PHP  
 
-Here are some ideas to get you started:
+**Frameworks & Technologies**  
+🌱 Spring Boot • Django • .NET • JavaFX • Streamlit  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Web Development**  
+🔭 HTML • CSS • JavaScript  
+
+**Tools**  
+🧰 Git • Linux (Bash) • VS Code • IntelliJ • Visual Studio • Android Studio  
+
+**Design**  
+🎨 Figma • Canva • Adobe Premiere Pro  
+
+---
+
+## 📌 Featured Projects
+- 🔹 **TAMAD** — Full-stack Django task management system  
+- 🔹 **Timely** — Spring Boot backend for schedule management  
+- 🔹 **Tube Sorter Engine** — BFS-based puzzle solver  
+- 🔹 **ZodiFind** — Android app with dynamic user input  
+
+---
+
+## 📫 Connect with Me
+📧 **Email:** aaronvjatayna@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/aaronjatayna  
+💻 **GitHub:** https://github.com/aarondei  
+
+---
+
+⭐ *Always learning, building, and improving.*
