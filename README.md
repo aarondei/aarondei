@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aaron 👋
+
+💻 Computer Science student  
+🚀 Interested in Software Development, AI, and Data  
+
+## Skills
+- Java, Python, C#, C/C++, Kotlin, SQL, PHP
+- Spring Boot, Django, .NET, JavaFX, Streamlit
+- HTML, CSS, JavaScript
+
+## Contact
+- Email: aaronvjatayna@gmail.com
 
 <!--
 **aarondei/aarondei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
