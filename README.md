@@ -36,7 +36,6 @@
 ## 📫 Connect with Me
 📧 **Email:** aaronvjatayna@gmail.com  
 🔗 **LinkedIn:** https://linkedin.com/in/aaronjatayna  
-💻 **GitHub:** https://github.com/aarondei  
 
 ---
 
